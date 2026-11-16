@@ -1,0 +1,13 @@
+{
+  "appId": "de.tagwerk.app",
+  "appName": "Tagwerk",
+  "webDir": "www",
+  "backgroundColor": "#F2F4F7",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_tagwerk",
+      "iconColor": "#13202C"
+    }
+  }
+}
